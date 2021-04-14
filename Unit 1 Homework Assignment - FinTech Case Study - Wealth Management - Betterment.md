@@ -46,4 +46,3 @@
 
 * Why are these technologies appropriate for your solution?
 
-asasdf;lkj
