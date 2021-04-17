@@ -30,7 +30,7 @@
 
 ## Results
 
-* What has been the business impact of this company so far?
+* What has been the business impact of this company so far? 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -52,4 +52,6 @@
 * https://www.crunchbase.com/organization/betterment/company_financials
 * https://stackshare.io/betterment/betterment
 * https://www.statista.com/outlook/dmo/fintech/personal-finance/robo-advisors/worldwide#global-comparison
+* https://www.nerdwallet.com/best/investing/robo-advisors
+* https://www.bdo.com/insights/industries/financial-services/5-fintech-trends-to-watch-in-asset-management
 
