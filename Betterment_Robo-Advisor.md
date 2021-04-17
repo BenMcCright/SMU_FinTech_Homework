@@ -47,11 +47,10 @@
 * The difference between Robo-advisor index-tracking equity funds and being able to select specific stocks/cryptocurrencies is that clients would be more active on the side of buying and selling specific stocks and cryptos. Traditionally, customers of Betterment deposit money in a lump sum, and then add to it from time-to-time. However, people who use Robinhood for example, are typically putting money in more frequently, as well as cashing out more frequently. They might buy and sell the same stock in the same day, or multiple times throughout the day. The infrastructure in place for Betterment would certainly not be able to handle that type of volume and frequency. If they were to have a crash or their system went down due to too much stress via volume, their customers would quickly lose faith and move their portfolios to another platform.
 
 ### Resources
-* https://www.betterment.com/resources/
-* https://en.wikipedia.org/wiki/Betterment_(company)
-* https://www.crunchbase.com/organization/betterment/company_financials
-* https://stackshare.io/betterment/betterment
-* https://www.statista.com/outlook/dmo/fintech/personal-finance/robo-advisors/worldwide#global-comparison
-* https://www.nerdwallet.com/best/investing/robo-advisors
-* https://www.bdo.com/insights/industries/financial-services/5-fintech-trends-to-watch-in-asset-management
-
+* “5 Fintech Trends to Watch in Asset Management.” *BDO*, 16 Apr. 2021, www.bdo.com/insights/industries/financial-services/5-fintech-trends-to-watch-in-asset-management. 
+* Benson, Alana. “12 Best Robo-Advisors of April 2021.” *NerdWallet*, 16 Apr. 2021, www.nerdwallet.com/best/investing/robo-advisors. 
+* “Betterment FAQ and Resources.” *Betterment*, 15 Apr. 2021, www.betterment.com/resources/.
+* “Betterment - Betterment Tech Stack.” *StackShare*, 15 Apr. 2021, stackshare.io/betterment/betterment. 
+* “Betterment - Funding, Financials, Valuation &amp; Investors.” *Crunchbase*, 16 Apr. 2021, www.crunchbase.com/organization/betterment/company_financials. 
+* “Betterment (Company).” *Wikipedia*, Wikimedia Foundation, 15 Apr. 2021, en.wikipedia.org/wiki/Betterment_(company).  
+* “Robo-Advisors - Worldwide: Statista Market Forecast.” *Statista*, 15 Apr. 2021, www.statista.com/outlook/dmo/fintech/personal-finance/robo-advisors/worldwide#global-comparison. 
