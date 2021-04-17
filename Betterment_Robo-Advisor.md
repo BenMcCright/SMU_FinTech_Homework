@@ -1,5 +1,5 @@
-# BETTERMENT - Wealth Management Reimagined
-
+![Betterment](https://media1.moneywise.com/cdn-cgi/image/fit=cover,g=left,width=756,height=336,f=auto,quality=80/a/213/fintech-robo-advisors-can-make-you-money-while-you-sleep_hero_1800x800_hero_800x1800_v20171214165551.jpg)
+# Betterment - Robo-Advisor
 ## Overview and Origin
 
 * Name of company. Betterment uses robo-advising and automated cash management services to bring efficiency into the financial advisory industry. They are registered with SEC as well as a member of the Financial Industry Regulatory Authority(FIRA). Betterment is a registered investment advisor and broker-dealer, however their strategy is very tech-oriented compared to traditional financial/investment advisory companies. While Betterment offers checking and savings accounts, traditional and Roth IRAs, as well as human financial advisors, their main focus and point of differentiation is in automated goal-based investing. To achieve this, they manage portfolios of passive index-tracking equity and fixed income ETFs.
